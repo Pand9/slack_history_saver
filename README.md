@@ -1,5 +1,5 @@
 # Slack history saver
-Save Slack history as JSON and CSV.
+Save Slack history in JSON and CSV file formats.
 
 Download the whole history of specific channel to the full JSON file and to minimal, human-readable CSV.
 
